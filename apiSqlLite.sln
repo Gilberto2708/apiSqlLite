@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSqlLite", "WebApplication1\WebApiSqlLite.csproj", "{AC9E1081-57DE-4528-87F1-5BA888CF9848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9E1081-57DE-4528-87F1-5BA888CF9848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9E1081-57DE-4528-87F1-5BA888CF9848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9E1081-57DE-4528-87F1-5BA888CF9848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9E1081-57DE-4528-87F1-5BA888CF9848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C21ED6-7726-49D9-A402-7D5821EC7A54}
+	EndGlobalSection
+EndGlobal
